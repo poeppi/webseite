@@ -281,7 +281,7 @@ strong { font-weight: 700; }
 
 .work-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 50px;
   margin-top: 48px;
 }
@@ -398,6 +398,7 @@ strong { font-weight: 700; }
   .step { grid-template-columns: 64px 1fr; gap: 16px; }
   .step__num { font-size: 44px; }
   .person { grid-template-columns: 1fr; gap: 36px; }
+  .work-grid { grid-template-columns: 1fr; gap: 40px; }
   .case-grid { grid-template-columns: 1fr; gap: 36px; }
   .case-figure { max-width: 420px; }
   .person .portrait { max-width: 320px; }
