@@ -1,0 +1,24 @@
+# Yvonne Pöppelbaum
+
+> Learning Design for AI Adoption. Publizistische Lehre für KI-gestützte Recherche und AI Literacy. Hamburg, remote und vor Ort, auf Deutsch und Englisch.
+
+Yvonne Pöppelbaum ist Learning Architect, Journalistin und Facilitatorin. Sie zeigt Teams in Unternehmen, Bildungseinrichtungen und Redaktionen, wie sie KI in ihre Arbeit einbauen, ohne blind auf den Output zu vertrauen. Ihr Handwerk kommt aus dem Journalismus: nachfragen, Quellen prüfen, genau beschreiben.
+
+## Arbeitsweise
+
+- [Die Reihenfolge entscheidet](https://poeppelbaum.eu/#arbeitsweise): analysieren, urteilen, produzieren, evaluieren. Zwischen den Schritten urteilt ein Mensch.
+
+## Angebot
+
+- [Vier Wege](https://poeppelbaum.eu/#angebot): AI-Literacy-Workshops, Recherche- und Verifikationstraining, Lernprogramme entwerfen, Facilitation und Moderation.
+- [Workshop-Formate](https://poeppelbaum.eu/#formate): Prüfwerkstatt (vom Briefing bis zur Prüfroutine), Frontier-Labor (wo KI dem Team wirklich hilft), Teamklausur (wofür KI, wofür bewusst nicht), Phishing-Detektive (Betrugsnachrichten erkennen).
+
+## Zum Ausprobieren
+
+- [KI verstehen: das Mitmach-Labor](https://poeppelbaum.eu/labor/): neun Stationen zum Ausprobieren, wie Sprachmodelle funktionieren und wo sie danebenliegen. Kostenlos, ohne Konto, auf Deutsch. Für Schule, Alltag, Beruf und Medien.
+
+## Weitere Seiten
+
+- [English version](https://poeppelbaum.eu/en/)
+- [Kontakt](https://poeppelbaum.eu/#kontakt)
+- [Impressum](https://poeppelbaum.eu/impressum.html)
